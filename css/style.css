@@ -1,0 +1,51 @@
+img {
+	min-width:100%;
+	min-height:100%;
+	background-size: cover;
+}
+h1 {
+	color:black;
+	font-size:30px;
+	text-align: center; 
+}
+.header{
+  background-color: black;
+  padding:15px;
+  overflow: hidden;
+
+}
+.header a{
+	color:white;
+	float:left;
+	
+	font-weight: 10px;
+	text-decoration: none;
+	font-size: 25px;
+	
+
+}
+.header a img {
+	width:50px;
+	height:50px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.header-menu a{
+	text-decoration: none;
+	padding:10px;
+	float:right;
+}
+.header-menu a:hover {
+	color:red;
+}
+.footer{
+	background-color: black;
+	text-align: center;
+	padding:25px;
+	color:white;
+}
+.service h1 {
+ color:red;
+ text-align: center;
+}
